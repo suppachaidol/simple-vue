@@ -1,0 +1,23 @@
+[
+    {
+    "date": "2021-07-24",
+    "detail": "เงินเดือน",
+    "income": 30000,
+    "expenditure": 0
+    },
+
+    {
+    "date": "2021-07-24",
+    "detail": "ค่าข้าว",
+    "income": 0,
+    "expenditure": 100
+    },
+
+    {
+    "date": "2021-07-24",
+    "detail": "ค่าเน็ต",
+    "income": 0,
+    "expenditure": 700
+    }
+
+]
