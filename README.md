@@ -1,19 +1,12 @@
 # simple-vue
-
-## Project setup
+เข้าไปในโฟลเดอร์ project
+ใช้คำสั่งข่างล่างนี้เพื่อ setup project
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+ใช้คำสั่งข้างล่างนี้เพื่อ compiles
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+จะมี link ขึ้นมาเพื่อให้เข้าไปดูหน้าเว็บ
